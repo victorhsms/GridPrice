@@ -1,0 +1,47 @@
+* {
+    background-color:#F1F3F1;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 2px;
+  }
+  #box1 {
+    width: 600px;
+    padding-left: 30px;
+    background-color: #FFFEFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: -5px 5px #DEE0D8;
+  }
+  #box2 {
+    width: 300px;
+    padding-left: 30px;
+    margin-top:-18px;
+    background: #2CB3B1;
+    border-radius: 0px 0px 0px 10px;
+    box-shadow: -5px 5px #DEE0D8;  
+  }
+  #title1{
+    background-color: #FFFEFF;
+    color:#2CB3AF;
+  }
+  #title2{
+    padding-top:40px;
+    background-color: #2CB3AF ;
+    color:#FFFEFF;
+  }
+  #text1{
+    background-color: #FFFEFF;
+    color: #BEDF32;
+  }
+  #text2{
+    background-color: #2CB3AF ;
+    color:#FFFEFF;
+  }
+  #price{
+    background-color: #2CB3AF ;
+    color:#FFFEFF;
+  }
+  #paragraph{
+    background-color: #FFFEFF;
+    color:#BBBDBF;
+    letter-spacing: 1px;
+  }
