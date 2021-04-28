@@ -1,0 +1,3 @@
+# GridPrice
+README.me will be updated later...
+Activity in progress to copy an existing grid price.
